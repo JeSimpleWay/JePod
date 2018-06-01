@@ -1,4 +1,4 @@
-let ver = "1.0"
+let ver = "2.0"
 public func printCoreVer() {
     print("Core ver \(ver)")
 }
